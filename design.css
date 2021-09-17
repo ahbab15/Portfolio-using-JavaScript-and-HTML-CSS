@@ -1,0 +1,98 @@
+
+
+body {
+
+	background-image: url("bg3.jpg");
+}
+
+
+.div0 {
+	width: 460px;
+	margin-left: 500px;
+	}
+#menu {
+	
+}
+
+
+#menu li {
+	display : inline;
+	margin-left: 20px;
+}
+
+#menu li a {
+	text-decoration: none;
+	margin-right: 2px;
+	color: #024523;
+}
+
+.qu {
+
+	color: #eb0000;
+}
+
+.main {
+	height: 550px;
+	width:1350px;
+}
+
+.div1 {
+	width: 10px;
+	float: left;
+	margin-right: 500px;
+
+	}
+
+.div2 {
+	width: 665px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 150px;
+	margin-right: 5px;
+	
+	}
+
+ .smain {
+ 	width: 1200px;
+ 	height: 200px;
+ 	margin-left: 110px;
+
+ }
+
+
+.div3 {
+	
+	width: 250px;
+	float: left;
+	margin-right: 40px;
+	
+}
+
+table {
+	width:400px;
+	text-align:center;
+	margin-left: 100px;
+}
+
+table, th, td {
+	border-collapse:collapse;
+	border:3px solid #161d38;
+}
+
+.neww {
+
+		float: left;
+		margin-top: px;
+}
+
+
+.div4 {
+
+	margin-left: 100px;
+
+}
+
+.java {
+	margin-top: 190px;
+	margin-left: 900px;
+}
